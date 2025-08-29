@@ -1,2 +1,2 @@
 # MLP_Pracs
-MLP Practicals
+Machine Learning with Python Practicals
